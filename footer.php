@@ -14,9 +14,7 @@
 				?>  				
 			</div>
 			<div class="col-sm-6 col-md-3 no-padding bottom-footer">
-				
-				<div><img src="<?php bloginfo('template_directory'); ?>/img/finn-no.jpg" height="30" width="70"/></div>
-				
+				<div><a href="http://www.finn.no" target="blank"><img src="<?php bloginfo('template_directory'); ?>/img/finn-no.jpg" height="30" width="70"/></a></div>				
 			</div>       
 		</div>
 	</footer>
